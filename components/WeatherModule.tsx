@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     borderWidth: 1,
     borderColor: '#FFFFFF',
-    backgroundColor: '#FFFFFF',
+    backgroundColor: 'yellow',
     justifyContent: 'center',
     alignItems: 'center',
 
